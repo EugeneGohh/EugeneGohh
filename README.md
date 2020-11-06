@@ -1,7 +1,7 @@
 <!--Introduction -->
 I'm Eugene from Kuala Lumpur, :malaysia: :cityscape: ! I'm currently learning on Codecademy and FreeCodeCamp looking forward to become a full stack developer 💻 and also a student studying Biology :dna:,Physic :rocket:, Chemistry :test_tube:, finding ways to solve real-world problems🌏. I'm passionate about making open-source more accessible, creating website, and building a community.
 <br>
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with peole from all walk of life</b> feel free to say <b>hi, I'll be happy to meet you !</b> :blush:</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with people from all walk of life</b> feel free to say <b>hi, I'll be happy to meet you !</b> :blush:</em>
 
 <!-- Your Badges -->
 [![Linkedin](https://img.shields.io/badge/-EugeneGoh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eugene-goh-5236241a9/)
