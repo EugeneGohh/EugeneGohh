@@ -15,7 +15,7 @@ I'm Eugene from Kuala Lumpur, :malaysia: :cityscape: ! I'm currently learning on
 * Learning some graphic design for web using Adobe XD.
 
 ### Challenges that I’m currently challenging myself:
-Since the world is changing fast stage:earth_asia:, and I’m using my time to study :watch:, I decided to focus on gaining more knowledge:books: to sharpen up myself. I set a couple of self-challenges in order to push myself more further.:running: 
+Since the world is changing fast :earth_asia:, I’m using my time to study :watch:, I decided to focus on gaining more knowledge:books: to sharpen up myself and prepare for 21st century. I set a couple of self-challenges in order to push myself even further.:running: 
 
 * Learn to code:man_technologist: 3 hours a day with no distraction 
 * Read:newspaper: articles on a daily routine
