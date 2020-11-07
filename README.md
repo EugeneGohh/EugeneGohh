@@ -1,5 +1,5 @@
 <!--Introduction -->
-I'm Eugene from Kuala Lumpur, :malaysia: :cityscape: ! I'm currently learning on Codecademy and FreeCodeCamp looking forward to become a full stack developer 💻 and also a student studying Biology :dna:,Physic :rocket:, Chemistry :test_tube:, finding ways to solve real-world problems🌏. I'm passionate about making open-source more accessible, creating website, and building a community.
+I'm Eugene from Kuala Lumpur, :malaysia: :cityscape: ! I'm currently learning on Codecademy and FreeCodeCamp looking forward to become a full stack developer 💻 and also a student studying Biology :dna:,Physic :rocket:, Chemistry :test_tube:, finding ways to solve real-world problems🌏. I'm passionate about making open-source more accessible, creating website, and building a community with people from around the globe.
 <br>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with people from all walk of life</b> feel free to say <b>hi, I'll be happy to meet you !</b> :blush:</em>
 
