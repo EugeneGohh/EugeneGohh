@@ -8,7 +8,6 @@ I'm Eugene from Kuala Lumpur, :malaysia: :cityscape: ! I'm currently learning on
 [![Gmail](https://img.shields.io/badge/-EugeneGoh-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:gzkgt11@gmail.com)
 [![Twitter](https://img.shields.io/badge/-TWITTER-informational?style=flat-square&logo=twitter&logoColor=white&color=blue)](https://twitter.com/Eugene__Goh)
 [![Instagram](https://img.shields.io/badge/-eugenegoh__-informational?style=flat-square&logo=instagram&logoColor=white&color=orange)](https://www.instagram.com/eugenegoh___/)
-[![Github](https://img.shields.io/badge/-EugeneGohh-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://github.com/EugeneGohh)
 
 ### 💼  Things that I'm currently working on: 
 * Currently studying full stack engineering on Codecademy combine with free resources on FreeCodeCamp. 
