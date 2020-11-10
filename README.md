@@ -1,5 +1,5 @@
 <!--Introduction -->
-I'm Eugene from Kuala Lumpur, :malaysia: :cityscape: ! I'm currently learning on Codecademy and FreeCodeCamp looking forward to become a full stack developer 💻 and also a student studying Biology :dna:,Physic :rocket:, Chemistry :test_tube:, finding ways to solve real-world problems🌏. I'm passionate about making open-source more accessible, creating website, and building a community with people from around the globe.
+I'm Eugene from Kuala Lumpur, :malaysia: :cityscape: ! I'm currently learning on Codecademy and FreeCodeCamp looking forward to become a Full Stack Developer 💻 and also a student studying Biology :dna:,Physic :rocket:, Chemistry :test_tube:, finding ways to solve real-world problems🌏. I'm passionate about making open-source more accessible, creating website, and building a community with people from around the globe.
 <br>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with people from all walk of life</b> feel free to say <b>hi, I'll be happy to meet you !</b> :blush:</em>
 
@@ -19,7 +19,7 @@ I'm Eugene from Kuala Lumpur, :malaysia: :cityscape: ! I'm currently learning on
 ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <p> <!-- GitHub README Stats -->
   <a href="https://gitstats.me/EugeneGohh">
-    <img width="350" height="auto" width="400" align="right" alt="Eugene Goh's GitHub Stats" 
+    <img width="350" height="400" align="right" alt="Eugene Goh's GitHub Stats" 
          src="https://github-readme-stats.vercel.app/api?username=eugenegohh&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" />
    <!-- <img width="30%" height="auto" align="right" alt="Eugene Goh's github stats" 
 NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github. -->
