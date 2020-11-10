@@ -13,13 +13,6 @@ I'm Eugene from Kuala Lumpur, :malaysia: :cityscape: ! I'm currently learning on
 * Currently studying full stack engineering on Codecademy combine with free resources on FreeCodeCamp. 
 * Learning some graphic design for web using Adobe XD.
 
-### Challenges that I’m currently challenging myself:
-Since the world is changing fast :earth_asia:, I’m using my time to study :watch:, I decided to focus on gaining more knowledge:books: to sharpen up myself. I set a couple of self-challenges in order to push myself even further.:running: 
-
-* Learn to code:man_technologist: 3 hours a day with no distraction 
-* Read:newspaper: articles on a daily routine
-* Workout:weight_lifting_man: 5 days in a row and take a day break 
-* Adapt to minimalism lifestyle
 <!-- gif Image -->
 <img src="https://github.com/JoykishanSharma/JoykishanSharma/blob/master/life_balance.gif" alt="side Image" align="right" width="300" height="auto" />
 
