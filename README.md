@@ -13,9 +13,6 @@ I'm Eugene from Kuala Lumpur, :malaysia: :cityscape: ! I'm currently learning on
 * Currently studying full stack engineering on Codecademy combine with free resources on FreeCodeCamp. 
 * Learning some graphic design for web using Adobe XD.
 
-<!-- gif Image -->
-<img src="https://github.com/JoykishanSharma/JoykishanSharma/blob/master/life_balance.gif" alt="side Image" align="right" width="300" height="auto" />
-
 ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <p> <!-- GitHub README Stats -->
   <a href="https://gitstats.me/EugeneGohh">
