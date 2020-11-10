@@ -19,7 +19,7 @@ I'm Eugene from Kuala Lumpur, :malaysia: :cityscape: ! I'm currently learning on
 ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <p> <!-- GitHub README Stats -->
   <a href="https://gitstats.me/EugeneGohh">
-    <img width="460" height="auto" align="right" alt="Eugene Goh's GitHub Stats" 
+    <img width="350" height="auto" align="right" alt="Eugene Goh's GitHub Stats" 
          src="https://github-readme-stats.vercel.app/api?username=eugenegohh&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" />
    <!-- <img width="30%" height="auto" align="right" alt="Eugene Goh's github stats" 
 NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github. -->
