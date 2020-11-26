@@ -11,7 +11,7 @@ I'm Eugene from Kuala Lumpur, :malaysia: :cityscape: ! I'm currently learning on
 
 ### 💼  Things that I'm currently working on: 
 * Currently studying full stack engineering on Codecademy combine with free resources on FreeCodeCamp. 
-* Learning some graphic design for web using Adobe XD.
+* Learning some graphic design for web using Figma.
 
 ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <p> <!-- GitHub README Stats -->
@@ -31,8 +31,7 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
 <code><a href = "https://code.visualstudio.com/"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"></a></code>
 <code><a href = "https://git-scm.com/"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></a></code>
 <code><a href = "https://www.adobe.com/in/products/illustrator.html"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/616px-Adobe_Illustrator_CC_icon.svg.png"></a></code>
-<code><a href = "https://www.adobe.com/sea/products/xd.html"><img height="30"
-src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png"></a>
+<code>
 </code>
     </p>
 <!--
