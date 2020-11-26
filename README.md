@@ -4,7 +4,6 @@ I'm Eugene from Kuala Lumpur, :malaysia: :cityscape: ! I'm currently learning on
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with people from all walk of life</b> feel free to say <b>hi, I'll be happy to meet you !</b> :blush:</em>
 
 <!-- Your Badges -->
-[![Linkedin](https://img.shields.io/badge/-EugeneGoh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eugene-goh-5236241a9/)
 [![Gmail](https://img.shields.io/badge/-EugeneGoh-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:gzkgt11@gmail.com)
 [![Twitter](https://img.shields.io/badge/-TWITTER-informational?style=flat-square&logo=twitter&logoColor=white&color=blue)](https://twitter.com/Eugene__Goh)
 [![Instagram](https://img.shields.io/badge/-earthcoders-informational?style=flat-square&logo=instagram&logoColor=white&color=orange)](https://www.instagram.com/earthcoders/)
