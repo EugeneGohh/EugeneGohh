@@ -9,7 +9,7 @@ I'm Eugene from Kuala Lumpur, :malaysia: :cityscape: ! I'm currently learning on
 [![Instagram](https://img.shields.io/badge/-EugeneGoh-informational?style=flat-square&logo=instagram&logoColor=white&color=orange)](https://www.instagram.com/eugenegoh___/)
 
 ### 💼  Things that I'm currently working on: 
-* Currently studying full stack engineering on Codecademy combine with free resources on FreeCodeCamp. 
+* Currently studying full stack engineering. 
 
 ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <p> <!-- GitHub README Stats -->
