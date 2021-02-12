@@ -27,8 +27,6 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
 <code><a href = "https://getbootstrap.com/"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></a></code> 
 <code><a href = "https://code.visualstudio.com/"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"></a></code>
 <code><a href = "https://git-scm.com/"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></a></code>
-<code>
-</code>
     </p>
 <!--
 **EugeneGohh/EugeneGohh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
