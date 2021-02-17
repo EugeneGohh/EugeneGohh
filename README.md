@@ -1,30 +1,21 @@
-<!--Introduction -->
-I'm Eugene from Kuala Lumpur, :malaysia: :cityscape: ! Currently studying Full Stack Engineering 💻.
-<br>
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with people from all walk of life</b> feel free to say <b>hi, I'll be happy to meet you !</b> :blush:</em>
+<h1 align='center'>
+  Hi there 👋 I'm Eugene 👨‍💻
+</h1>
 
-<!-- Your Badges -->
-[![Gmail](https://img.shields.io/badge/-EugeneGoh-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:gzkgt11@gmail.com)
-[![Instagram](https://img.shields.io/badge/-EugeneGoh-informational?style=flat-square&logo=instagram&logoColor=white&color=orange)](https://www.instagram.com/eugenegoh___/)
+<p align='center'>
+  An aspiring Full Stack Developer from Malaysia.
+</p>
 
-### 💼  Things that I'm currently working on: 
-* Currently studying full stack engineering. 
-
-### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-<p> <!-- GitHub README Stats -->
-  <a href="https://gitstats.me/EugeneGohh">
-    <img width="400" height="auto" align="right" alt="Eugene Goh's GitHub Stats" 
-         src="https://github-readme-stats.vercel.app/api?username=eugenegohh&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" />
-   <!-- <img width="30%" height="auto" align="right" alt="Eugene Goh's github stats" 
-NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github. -->
-  </a>
+<p align='center'>
   
- <!-- icons -->
-<code><a href = "https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></a></code>
-<code><a href = "https://developer.mozilla.org/en-US/docs/Archive/CSS3"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></a></code>
-<code><a href = "https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a></code>
-<code><a href = "https://code.visualstudio.com/"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"></a></code>
-<code><a href = "https://git-scm.com/"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></a></code>
-    </p>
-<!--
-**EugeneGohh/EugeneGohh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+  <!--<a href="https://wa.me/5518996643974?text=Olá!%20Alexandre">
+    <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
+  </a>&nbsp;&nbsp;-->
+  <a href="https://www.linkedin.com/in/eugene-goh-5236241a9/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/eugenegoh_/">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  
+</p>
