@@ -23,6 +23,6 @@
 </p>
 
 <p align="center">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eugenegohh&layout=compact" width="50%" height="50%"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eugenegohh&layout=compact&theme=dark" width="50%" height="50%"></a>
   </p>
 
