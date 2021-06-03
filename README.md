@@ -8,7 +8,7 @@
 
 <p align='center'>
   
-  <a href="https://www.linkedin.com/in/eugene-goh-5236241a9/">
+  <a href="https://www.linkedin.com/in/eugenegohh/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
   </a>&nbsp;&nbsp;
   <a href="https://eugenegohh.medium.com/">
