@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  An aspiring <b>Software Engineer</b> from <b>Malaysia</b>.
+  An aspiring <b>Full Stack Generalist</b> from <b>Malaysia</b>.
 </p>
 
 <p align='center'>
